@@ -11,9 +11,18 @@
   "description": "",
   "devDependencies": {
     "@types/express": "^5.0.0",
-    "tsx": "^4.19.2"
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
   },
   "dependencies": {
-    "express": "^4.21.1"
+    "@prisma/client": "^6.0.1",
+    "@types/jsonwebtoken": "^9.0.7",
+    "express": "^4.21.1",
+    "graphql": "^16.9.0",
+    "graphql-http": "^1.22.3",
+    "jsonwebtoken": "^9.0.2",
+    "reflect-metadata": "^0.2.2",
+    "ruru": "^2.0.0-beta.13",
+    "type-graphql": "^2.0.0-rc.2"
   }
 }
